@@ -1,0 +1,5 @@
+2025-06-03 18:33:33,506 - Model trained and saved to models
+2025-06-03 18:33:33,507 - Predictions: [0. 0. 0. 0. 0.]
+2025-06-03 18:33:33,507 - Training accuracy: 1.0
+2025-06-03 18:33:33,508 - Predictions: [0. 0. 0. 0. 0.]
+2025-06-03 18:33:33,509 - Model accuracy: 1.0
